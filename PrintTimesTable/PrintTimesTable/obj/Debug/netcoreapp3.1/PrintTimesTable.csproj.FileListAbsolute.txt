@@ -1,0 +1,12 @@
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\bin\Debug\netcoreapp3.1\PrintTimesTable.exe
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\bin\Debug\netcoreapp3.1\PrintTimesTable.deps.json
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\bin\Debug\netcoreapp3.1\PrintTimesTable.runtimeconfig.json
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\bin\Debug\netcoreapp3.1\PrintTimesTable.runtimeconfig.dev.json
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\bin\Debug\netcoreapp3.1\PrintTimesTable.dll
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\bin\Debug\netcoreapp3.1\PrintTimesTable.pdb
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\obj\Debug\netcoreapp3.1\PrintTimesTable.AssemblyInfoInputs.cache
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\obj\Debug\netcoreapp3.1\PrintTimesTable.AssemblyInfo.cs
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\obj\Debug\netcoreapp3.1\PrintTimesTable.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\obj\Debug\netcoreapp3.1\PrintTimesTable.dll
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\obj\Debug\netcoreapp3.1\PrintTimesTable.pdb
+C:\Users\Abdullah Zahra\source\repos\PrintTimesTable\PrintTimesTable\PrintTimesTable\obj\Debug\netcoreapp3.1\PrintTimesTable.genruntimeconfig.cache
